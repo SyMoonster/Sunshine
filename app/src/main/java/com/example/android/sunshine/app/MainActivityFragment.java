@@ -30,7 +30,7 @@ public class MainActivityFragment extends Fragment {
                 "Jeu 20/06 - Soleil - 32-34",
                 "Ven 20/06 - Soleil - 32-34",
                 "Sam 20/06 - Soleil - 32-34",
-                "Dim 20/06 - Soleil - 32-34"
+                "Dim 20/06 - Pluie - 32-34"
                 };
          List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));
         mForecastAdapter = new ArrayAdapter(getActivity(),R.layout.list_item_forecast, R.id.list_item_forecast_textview, weekForecast);
