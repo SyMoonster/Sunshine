@@ -28,7 +28,7 @@ public class MainActivityFragment extends Fragment {
                 "Mar 20/06 - Soleil - 32-34",
                 "Mer 20/06 - Soleil - 32-34",
                 "Jeu 20/06 - Soleil - 32-34",
-                "Ven 20/06 - Soleil - 32-34",
+                "Ven 20/06 - Grele - 32-34",
                 "Sam 20/06 - Neige - 32-34",
                 "Dim 20/06 - Pluie - 32-34"
                 };
